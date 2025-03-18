@@ -1,5 +1,5 @@
 # Jeevan Patil
-Software Engineer | Portfolio: [patiljeevanr.github.io](https://patiljeevanr.github.io) | [Download Full CV (PDF)](files/jeevan_patil_resume.pdf)
+Software Engineer | Portfolio: [patiljeevanr.github.io](https://patiljeevanr.github.io) | [Download Resume](files/jeevan_patil_resume.pdf)
 
 ## Summary
 Back-end Developer with almost 6 Years of Experience in Java-based Micro-services delivering High-Quality Solutions.
