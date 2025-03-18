@@ -4,7 +4,7 @@ logo: jeevan_patil.JPG # Use a relative path to the logo image
 
 description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
 
-show_downloads: true # Fix spelling
+show_downloads: false # Fix spelling
 
 theme: jekyll-theme-minimal 
 
