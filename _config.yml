@@ -1,14 +1,7 @@
-title: Jeevan  # You can add your name here
-
-logo: files/jeevan_patil.JPG # Use a relative path to the logo image 
-
-description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
-
-show_downloads: false # Fix spelling
-
+logo: files/jeevan_patil.JPG 
+description: Data science and AI in agriculture - where bytes and botany blend for a better world.
+show_downloads: false 
 theme: jekyll-theme-minimal 
-
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
-
-email: patiljeevanr@gmail.com # Allow visitors to contact you
+  - jekyll-seo-tag 
+email: patiljeevanr@gmail.com
