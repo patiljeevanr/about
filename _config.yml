@@ -1,4 +1,4 @@
-title: Name  # You can add your name here
+title: Jeevan  # You can add your name here
 
 logo: jeevan_patil.JPG # Use a relative path to the logo image 
 
@@ -11,4 +11,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-email: youremail@gmail.com # Allow visitors to contact you
+email: patiljeevanr@gmail.com # Allow visitors to contact you
